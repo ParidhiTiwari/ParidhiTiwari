@@ -1,67 +1,133 @@
-# Hi, I'm Paridhi 👋  
+<!-- Glassmorphism Banner -->
+<p align="center">
+  <picture>
+    <img src="https://svgshare.com/i/19yG.svg" width="100%" />
+  </picture>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E57E0&width=435&lines=B.Tech+CSE+Core+student+at+VIT+Bhopal;Graphics+Designer;Frontend+%26+Backend+Learner;Always+curious+to+learn)](https://git.io/typing-svg)  
+<!-- Fade-in animation CSS -->
+<style>
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.section {
+  animation: fadeIn 1.2s ease-in-out;
+}
+</style>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ParidhiTiwari&color=blueviolet&style=flat-square)  
+<!-- Intro -->
+<p align="center" class="section">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=1900&pause=1200&color=8F7AEA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Paridhi.;Designer+%7C+Developer.;Always+learning%2C+always+building." />
+</p>
 
-✨ Graphics Designer | Tech Enthusiast | Lifelong Learner  
+<p align="center" class="section">
+  <img src="https://komarev.com/ghpvc/?username=ParidhiTiwari&style=for-the-badge&color=8F7AEA" />
+</p>
 
 ---
 
-## 🌱 Currently Learning  
-- Frontend Development (React + Next.js)  
-- Basics of Backend Development  
-- Machine Learning Fundamentals  
+## 🧭 About Me  
+<div class="section">
+I enjoy building clean interfaces and designing visuals that feel calm and intentional.  
+Focused on clarity, craft, and consistent learning.
+</div>
 
 ---
 
-## 🛠️ Tools I Use  
+## 🌱 What I'm Learning  
+<div class="section">
 
-### 🎨 Design Tools  
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com)
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Autodesk Fusion 360](https://img.shields.io/badge/Fusion%20360-%23FF6C0C.svg?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
+- React + Next.js  
+- Backend fundamentals  
+- UI/UX workflows  
 
-### 💻 Development Tools  
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+</div>
+
+---
+
+## 🛠️ Tools  
+
+### Design  
+<div class="section">
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ai,canva" height="42" />
+</p>
+</div>
+
+### Development  
+<div class="section">
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,git,github,vscode,python" height="42" />
+</p>
+</div>
 
 ---
 
 ## 🚀 Projects  
-- **[Gridcraft](https://github.com/Bharath200415/Gridcraft-fullstack)** — Fullstack web app with a clean UI.  
-- **Club Work** — Design and collaboration projects across multiple student communities.  
-- **100 Days of Coding Challenge** — Daily coding journey and problem solving.  
+<div class="section">
+
+- Gridcraft — full-stack UI-centric project  
+- Community design and tech contributions  
+- 100 Days of Code  
+
+</div>
 
 ---
 
-## 🏆 Achievements  
-- Creative Lead at *Cisco Community*  
-- PR Lead at *Health-O-Tech*  
-- Design Co-Lead at *Vitronix*  
-- Selected for *1000 Girls, 1000 Futures* by the New York Academy of Sciences  
+## 🏆 Highlights  
+<div class="section">
+
+- Creative Lead — Cisco Community  
+- PR Lead — Health-O-Tech  
+- Design Co-Lead — Vitronix  
+- Selected for *1000 Girls, 1000 Futures*  
+
+</div>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview  
 
-![Paridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&theme=tokyonight)
+<div class="section" align="center">
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&hide_border=true&theme=graywhite" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&hide_border=true" height="160" />
+</picture>
+
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&hide_border=true&theme=graywhite" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&hide_border=true" height="160" />
+</picture>
+
+</div>
 
 ---
-## 🌍 Languages I Speak  
-- Hindi (Native)  
-- English (Fluent)  
-- German (Learning)
-  
 
-
-## 📫 How to reach me  
-- [LinkedIn](https://www.linkedin.com/in/paridhi-tiwari-0701/)  
-- [Email](mailto:tparidhi7@gmail.com)  
+## 🌍 Languages  
+<div class="section">
+Hindi • English • German (learning)
+</div>
 
 ---
 
-⚡ *Fun fact:* I love learning new languages and exploring new cultures and perspectives 🌍✨  
+## 📫 Connect  
+<div class="section">
+<p>
+  <a href="https://www.linkedin.com/in/paridhi-tiwari-0701/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:tparidhi7@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+</div>
+
+---
+
+<p align="center" class="section">
+  <i>Building, one step at a time </i>
+</p>
