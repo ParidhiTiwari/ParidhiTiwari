@@ -1,8 +1,6 @@
-<!-- Glassmorphism Banner -->
+<!-- Banner (your image) -->
 <p align="center">
-  <picture>
-    <img src="https://svgshare.com/i/19yG.svg" width="100%" />
-  </picture>
+  <img src="./banner.png" width="100%" />
 </p>
 
 <!-- Fade-in animation CSS -->
@@ -18,11 +16,11 @@
 
 <!-- Intro -->
 <p align="center" class="section">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=1900&pause=1200&color=8F7AEA&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Paridhi.;Designer+%7C+Developer.;Always+learning%2C+always+building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=1900&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Paridhi.;Designer+%7C+Developer.;Always+learning%2C+always+building." />
 </p>
 
 <p align="center" class="section">
-  <img src="https://komarev.com/ghpvc/?username=ParidhiTiwari&style=for-the-badge&color=8F7AEA" />
+  <img src="https://komarev.com/ghpvc/?username=ParidhiTiwari&style=for-the-badge&color=FFFFFF" />
 </p>
 
 ---
@@ -51,14 +49,14 @@ Focused on clarity, craft, and consistent learning.
 ### Design  
 <div class="section">
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ai,canva" height="42" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,canva&theme=dark" height="42" />
 </p>
 </div>
 
 ### Development  
 <div class="section">
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,git,github,vscode,python" height="42" />
+  <img src="https://skillicons.dev/icons?i=react,js,git,github,vscode,python&theme=dark" height="42" />
 </p>
 </div>
 
@@ -94,13 +92,13 @@ Focused on clarity, craft, and consistent learning.
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&hide_border=true&theme=graywhite" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ParidhiTiwari&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
 </picture>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&hide_border=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&hide_border=true&theme=graywhite" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParidhiTiwari&layout=compact&hide_border=true&theme=tokyonight" height="160" />
 </picture>
 
 </div>
@@ -118,10 +116,10 @@ Hindi • English • German (learning)
 <div class="section">
 <p>
   <a href="https://www.linkedin.com/in/paridhi-tiwari-0701/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" />
   </a>
   <a href="mailto:tparidhi7@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" />
   </a>
 </p>
 </div>
@@ -129,5 +127,5 @@ Hindi • English • German (learning)
 ---
 
 <p align="center" class="section">
-  <i>Building, one step at a time </i>
+  <i>Building, one step at a time</i>
 </p>
