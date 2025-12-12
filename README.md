@@ -3,24 +3,15 @@
   <img src="./banner.png" width="100%" />
 </p>
 
-<!-- Fade-in animation CSS -->
-<style>
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(6px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-.section {
-  animation: fadeIn 1.2s ease-in-out;
-}
-</style>
 
 <!-- Intro -->
 <p align="center" class="section">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=1900&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Paridhi.;Designer+%7C+Developer.;Always+learning%2C+always+building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=1900&pause=1200&color=FFFFFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Paridhi;Designer+%7C+Developer;+Learning%2C+and+Building" />
 </p>
 
 <p align="center" class="section">
-  <img src="https://komarev.com/ghpvc/?username=ParidhiTiwari&style=for-the-badge&color=FFFFFF" />
+  <img src="https://komarev.com/ghpvc/?username=ParidhiTiwari&color=000000&style=flat-square" />
+
 </p>
 
 ---
